@@ -1,1 +1,1 @@
-# pizz-shop
+# pizza-shop
